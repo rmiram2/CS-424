@@ -1,0 +1,12 @@
+name: CS424-project1
+title: CS424-project1
+username:
+account: rmiram2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1784967
+bundleId: 2787260
+url: https://rmiram2.shinyapps.io/CS424-project1/
+when: 1581294663.65252
+asMultiple: FALSE
+asStatic: FALSE
